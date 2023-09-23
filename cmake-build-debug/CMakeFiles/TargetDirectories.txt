@@ -1,0 +1,4 @@
+C:/oop/prog1/cmake-build-debug/CMakeFiles/prog1.dir
+C:/oop/prog1/cmake-build-debug/CMakeFiles/main.dir
+C:/oop/prog1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/oop/prog1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
